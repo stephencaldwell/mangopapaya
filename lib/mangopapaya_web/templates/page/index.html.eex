@@ -3,5 +3,5 @@
 %>
 <div class="image_container">
   <h1><%= morp.type %>!</h1>
-  <img src="<%= static_path(@conn, "/images/" <> Enum.random(morp.images)) %>">
+  <img src="<%= static_path(@conn, "/images/" <> morp.image) %>">
 </div>

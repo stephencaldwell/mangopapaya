@@ -5,3 +5,14 @@
  flex-direction: column;
  align-items: center;
 }
+
+.image_container img { 
+  height: 100%;
+}
+
+body { 
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}

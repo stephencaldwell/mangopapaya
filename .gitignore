@@ -31,3 +31,6 @@ npm-debug.log
 
 # VS Code Bullshit
 .elixir_ls
+
+# Distillery ouput
+rel
