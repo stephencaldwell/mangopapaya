@@ -1,0 +1,7 @@
+/* This file is for your main application css. */
+.image_container { 
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ align-items: center;
+}
